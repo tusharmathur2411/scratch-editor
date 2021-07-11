@@ -1,7 +1,6 @@
 .App {
   display: flex;
   justify-content: space-between;
-  
 }
 
 .canvas {
@@ -29,4 +28,10 @@
 
 .code {
   padding: 0 20px;  
+}
+
+.mid {
+  border: 1px solid black;
+  margin: 0 10px;
+  width: 100%
 }

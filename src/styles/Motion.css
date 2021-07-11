@@ -19,3 +19,21 @@
     outline: none;
     border: none;
 }
+
+.compiler {
+    padding: 20px;
+    position: relative;
+}
+
+.compiler>.motion {
+    width: 150px;
+    margin: 0;
+}
+
+.event {
+    background-color: lightgreen;
+}
+
+.event:hover {
+    background-color: green;
+}
