@@ -1,0 +1,21 @@
+.motion {
+    background-color: lightblue;
+    margin: 10px 0;
+    padding: 5px 10px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.motion:hover {
+    background-color: blue;
+    color: white;
+}
+
+.motion > input {
+    width: 25px;
+    outline: none;
+    border: none;
+}
