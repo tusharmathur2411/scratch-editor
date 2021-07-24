@@ -37,3 +37,8 @@
 .event:hover {
     background-color: green;
 }
+
+.inner-compiler {
+    width: fit-content;
+    border: 1px solid black;
+}

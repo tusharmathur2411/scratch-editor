@@ -80,6 +80,7 @@ const Motion = ({id, setPosition, sprite, setCurrFunc}) => {
                     <input value={myPos.y} onChange={e => setMyPos(p => ({...p, y:handleInputChange(e)}))} onClick={null} />
                 </div>
             </Draggable>
+            
         </>
     )
 }
